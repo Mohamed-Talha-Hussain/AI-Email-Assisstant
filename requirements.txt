@@ -1,0 +1,9 @@
+python==3.11
+streamlit==1.36.0
+pandas==2.2.2
+requests==2.32.3
+plotly==5.22.0
+langchain-community==0.0.32
+langchain-core==0.1.44
+langchain-text-splitters==0.0.1
+ollama==0.1.7
